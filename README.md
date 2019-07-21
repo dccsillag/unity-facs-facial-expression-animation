@@ -66,7 +66,7 @@ encodes facial activity into _Action Units_ (AUs); here are some examples:
 |       AU 0              |                  AU 1                 |         AU 2            |      AU 25               |
 |:-----------------------:|:-------------------------------------:|:-----------------------:|:------------------------:|
 | Neutral face            | Raises the inner part of the eyebrows | Arches the eyebrows     | Parts the lips           |
-| ![](images/aus/au0.png){ width=3cm }| ![](images/aus/au1.png){ width=3cm }               | ![](images/aus/au2.png){ width=3cm } | ![](images/aus/au25.png){ width=3cm } |
+| ![](images/aus/au0.png) | ![](images/aus/au1.png)               | ![](images/aus/au2.png) | ![](images/aus/au25.png) |
 
 In the current implementation, we use the following AUs (plus AU 0, which is the lack of any other AUs):
 
