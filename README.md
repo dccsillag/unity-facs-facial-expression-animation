@@ -1,8 +1,3 @@
----
-# vim: spell
-title: FACS-based Facial Expression Animation in Unity
----
-
 FACS-based Facial Expression Animation in Unity
 ===
 
